@@ -1,0 +1,15 @@
+C:\repozit\zxcvbb\qwerty\qwerty1\bin\Debug\net6.0\qwerty1.exe
+C:\repozit\zxcvbb\qwerty\qwerty1\bin\Debug\net6.0\qwerty1.deps.json
+C:\repozit\zxcvbb\qwerty\qwerty1\bin\Debug\net6.0\qwerty1.runtimeconfig.json
+C:\repozit\zxcvbb\qwerty\qwerty1\bin\Debug\net6.0\qwerty1.dll
+C:\repozit\zxcvbb\qwerty\qwerty1\bin\Debug\net6.0\qwerty1.pdb
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.csproj.AssemblyReference.cache
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.AssemblyInfoInputs.cache
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.AssemblyInfo.cs
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.csproj.CoreCompileInputs.cache
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.dll
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\refint\qwerty1.dll
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.pdb
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\qwerty1.genruntimeconfig.cache
+C:\repozit\zxcvbb\qwerty\qwerty1\obj\Debug\net6.0\ref\qwerty1.dll
