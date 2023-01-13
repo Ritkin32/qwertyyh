@@ -1,0 +1,15 @@
+C:\repozit\zxcvbb\qwerty\qas\bin\Debug\net6.0\qas.exe
+C:\repozit\zxcvbb\qwerty\qas\bin\Debug\net6.0\qas.deps.json
+C:\repozit\zxcvbb\qwerty\qas\bin\Debug\net6.0\qas.runtimeconfig.json
+C:\repozit\zxcvbb\qwerty\qas\bin\Debug\net6.0\qas.dll
+C:\repozit\zxcvbb\qwerty\qas\bin\Debug\net6.0\qas.pdb
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.csproj.AssemblyReference.cache
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.AssemblyInfoInputs.cache
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.AssemblyInfo.cs
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.csproj.CoreCompileInputs.cache
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.dll
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\refint\qas.dll
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.pdb
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\qas.genruntimeconfig.cache
+C:\repozit\zxcvbb\qwerty\qas\obj\Debug\net6.0\ref\qas.dll
